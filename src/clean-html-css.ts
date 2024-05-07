@@ -18,6 +18,7 @@ const allowedTags = [
   "h3",
   "h4",
   "section",
+  "img",
   "div",
   "span",
 ];
